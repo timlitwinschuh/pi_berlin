@@ -117,6 +117,12 @@
          "id":15,
          "name":"jitsiRoom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Essecke"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
